@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/cxf_mall_v1/!svn/ver/30/public
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/cxf_mall_v1/!svn/ver/1/public/.htaccess
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/cxf_mall_v1/!svn/ver/17/public/index.php
+END
